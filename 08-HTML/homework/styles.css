@@ -1,0 +1,24 @@
+h1
+{
+  color: rgba(209, 130, 130, 0.267)
+}
+
+img
+{
+  width: 400px;
+}
+
+#thirdDiv
+{
+  height: 600px;
+  width: 500px;
+  background-color: darkslategray;
+  padding: 50px;
+  border: 5px; color:aquamarine; font-style: oblique;
+}
+
+#spanId
+{
+  font-size: 18px;
+  margin: 50px;
+}
